@@ -1,0 +1,19 @@
+{
+  "name": "kpp_lab2",
+  "version": "1.0.0",
+  "description": "Lab #2 KPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliysavich/KPP_Lab2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaliysavich/KPP_Lab2/issues"
+  },
+  "homepage": "https://github.com/vitaliysavich/KPP_Lab2#readme"
+}
